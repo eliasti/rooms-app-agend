@@ -1,6 +1,6 @@
 import environ
 
-from tutorialdjango.settings.base import *
+from rooms.settings.base import *
 
 env = environ.Env()
 
